@@ -1,1 +1,1 @@
-# Piiquante
+# Projet Piiquante Backend (Node.js, MongoDB, Express et API REST)
